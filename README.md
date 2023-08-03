@@ -33,7 +33,7 @@ Pygame library
 Clone the repository to your local machine:
 
 Copy code
-git clone https://github.com/yourusername/grand-shooting.git
+git clone https://github.com/GowthamRaj24/grand-shooting.git
 
 # Install the required dependencies (Pygame):
 pip install pygame
