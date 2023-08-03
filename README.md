@@ -13,12 +13,19 @@ When the player's spaceship collides with an enemy spaceship or is hit by an ene
 The game keeps track of the player's score based on the number of enemy spaceships shot down.
 # Controls
 Arrow Up: Move the spaceship up.
+
 Arrow Down: Move the spaceship down.
+
 Arrow Left: Move the spaceship left.
+
 Arrow Right: Move the spaceship right.
+
 Space: Shoot bullets.
+
 R: Restart the game after game over.
+
 Getting Started
+
 # Prerequisites
 Python 3.x
 Pygame library
